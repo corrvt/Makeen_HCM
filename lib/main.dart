@@ -22,7 +22,7 @@ class MakeenApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'نظام مكين',
+      title: 'نظام مَكين',
       theme: ThemeData(
         primaryColor: const Color(0xFF1A5F7A),
         colorScheme: ColorScheme.fromSwatch().copyWith(
